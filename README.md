@@ -5,11 +5,11 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 ![eepy](2.avif)
 
 **Name:**
-Ke Xu Ke Xu
+Eric Kerschner
+Ke Xu
 **Hobbies:**
+Drawing
 I like cooking and filming and graphic design and webdev
-
-
 
 
 ## Section 1: Your First Commit
